@@ -56,5 +56,4 @@ public class Demo1 {
 		d2.display();
 		int [][]arr={{1,2,3,4}, {1,2}, {1,2,3,4,5}};
 	}
-
 }
